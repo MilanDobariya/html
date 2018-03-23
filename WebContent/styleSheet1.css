@@ -1,0 +1,9 @@
+ul
+{
+	list-style-type:square;//internal css
+}
+p
+{
+	background-color:yellow;
+	color:red;
+}
